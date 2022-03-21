@@ -8,8 +8,6 @@ public class Writer {
 
     public Writer(String fileName) throws IOException{
         //TODO Student
-        FileOutputStream fileStream = new FileOutputStream(fileName);
-        outputFile = new PrintWriter(fileStream);
     }
 
     public void closeWriter() {
