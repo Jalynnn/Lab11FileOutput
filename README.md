@@ -6,7 +6,7 @@ For ease of access, here is the [javadoc](https://www.cs.colostate.edu/~cs163/ja
 ## Pre-Step: Walkthrough and Compilation
 As with the last Tuesday lab and any other piece of code you may find yourself working with, it is always a great idea to find the `main` function, which is contained in the `FileMain` class, and try to work through what the program is currently doing. The main functionality is dependent upon your implementation, but this walkthrough will help solidify your understanding of the program.
 
-Once you have walked through the program and have a decent understanding of what should be occurring, try to compile and run the program. Obviously the program is incomplete at the moment, but it should work to an extent, but not to the degree that is needed for full operation.
+Once you have walked through the program and have a decent understanding of what should be occurring, try to compile and run the program. Some errors will arise, but this is expected!
 
 ## Step 1: Self-Explanation
 There will be three self-explanations for you to complete within `Writer.java`. The javadocs will serve as a guide when you write out these self-explanations. The last method, `logDuplicates()` is quite difficult so it may be of use to write out pseudocode along with your self-explanation.
