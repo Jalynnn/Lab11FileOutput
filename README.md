@@ -1,12 +1,12 @@
 # Lab 11 - File Output
 This lab is going to focus on File Output, which you will find is somewhat similar to console output. If you need a refresher after your well-deserved Spring Break, there is an additional information section at the bottom of this document!
 
-For ease of access, here is the [javadoc](https://www.cs.colostate.edu/~cs163/javadoc/lab11/package-summary.html).
+For ease of access, here is the [javadoc]().
 
 ## Pre-Step: Walkthrough and Compilation
 As with the last Tuesday lab and any other piece of code you may find yourself working with, it is always a great idea to find the `main` function, which is contained in the `FileMain` class, and try to work through what the program is currently doing. The main functionality is dependent upon your implementation, but this walkthrough will help solidify your understanding of the program.
 
-Once you have walked through the program and have a decent understanding of what should be occurring, try to compile and run the program. Obviously the program in incomplete at the moment, but it should work to an extent, but not to the degree that is needed for full operation.
+Once you have walked through the program and have a decent understanding of what should be occurring, try to compile and run the program. Obviously the program is incomplete at the moment, but it should work to an extent, but not to the degree that is needed for full operation.
 
 ## Step 1: Self-Explanation
 There will be three self-explanations for you to complete within `Writer.java`. The javadocs will serve as a guide when you write out these self-explanations. The last method, `logDuplicates()` is quite difficult so it may be of use to write out pseudocode along with your self-explanation.
@@ -19,8 +19,8 @@ Once you have finished up with your implmentation, a testing file has been inclu
 
 These tests will generate new files, so you may need to delete them after each test run, so new ones can be properly generated.
 
-## Step 5: Turning In
-Have your TA check over your self-explanations and then make sure to submit yor `Writer.java` to zyBooks.
+## Step 4: Turning In
+Have your TA check over your self-explanations and then make sure to submit your `Writer.java` to zyBooks.
 
 # Additional Information
 ## File Output
