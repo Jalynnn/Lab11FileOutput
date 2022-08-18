@@ -1,7 +1,7 @@
 # Lab 11 - File Output
 This lab is going to focus on File Output, which you will find is somewhat similar to console output. If you need a refresher after your well-deserved Spring Break, there is an additional information section at the bottom of this document!
 
-For ease of access, here is the [javadoc](https://www.cs.colostate.edu/~cs163/javadoc/lab11/package-summary.html).
+For ease of access, here is the [javadoc](https://csu-compsci-cs163-4.github.io/Lab11FileOutput/package-summary.html).
 
 ## Pre-Step: Walkthrough and Compilation
 As with the last Tuesday lab and any other piece of code you may find yourself working with, it is always a great idea to find the `main` function, which is contained in the `FileMain` class, and try to work through what the program is currently doing. The main functionality is dependent upon your implementation, but this walkthrough will help solidify your understanding of the program.
