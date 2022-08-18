@@ -20,7 +20,7 @@ Once you have finished up with your implmentation, a testing file has been inclu
 These tests will generate new files, so you may need to delete them after each test run, so new ones can be properly generated.
 
 ## Step 4: Turning In
-Have your TA check over your self-explanations and then make sure to submit your `Writer.java` to zyBooks.
+Have your TA check over your self-explanations and then make sure to submit your `Writer.java` to zyBooks. Online students do not have the option to submit their self-explanations but it is still highly recommend that it is completed to help better understand the code.
 
 # Additional Information
 ## File Output
